@@ -1,5 +1,5 @@
 # Origamid
 
-Tela simples de estudos: começo dos estudos do curso do Origamid.
+Simple portfolio: beginning of studies.
 
-Feito apenas com css e html
+Made with only CSS and HTML
