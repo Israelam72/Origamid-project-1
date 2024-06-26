@@ -1,5 +1,5 @@
 # Origamid
 
-Simple portfolio: beginning of studies.
+Simple portfolio
 
 Made with only CSS and HTML
